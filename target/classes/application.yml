@@ -1,8 +1,0 @@
-management :
-  endpoints:
-    web:
-      exposure:
-        include: "*"
-    jmx:
-      exposure:
-        include: "*"

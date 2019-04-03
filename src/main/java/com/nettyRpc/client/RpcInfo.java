@@ -5,7 +5,7 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * Created by zhangshukang on 2019/4/2.
+ * Created by zhangshukang.
  */
 @Data
 public class RpcInfo implements Serializable {

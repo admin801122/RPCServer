@@ -4,7 +4,7 @@ package com.nettyRpc.server;
 import com.nettyRpc.client.UserService;
 
 /**
- * Created by zhangshukang on 2019/4/2.
+ * Created by zhangshukang.
  */
 public class UserServiceImpl implements UserService {
 

@@ -12,7 +12,10 @@ import io.netty.handler.codec.serialization.ObjectDecoder;
 import io.netty.handler.codec.serialization.ObjectEncoder;
 
 /**
- * Created by zhangshukang on 2019/4/2.
+ * Created by zhangshukang on.
+ *
+ * 服务端启动类
+ *
  */
 public class NettyRpcServer {
 
