@@ -17,6 +17,7 @@ public class UserController {
 
     @RequestMapping(value = "/callRpc")
     public String callRpcTest(){
+        //master
         userService.callRpc("callRpc execute......");
         return "ok";
     }
