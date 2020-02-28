@@ -8,5 +8,5 @@ import com.nettyRpc.client.nettyClientScan.NettyRpcClient;
 
 @NettyRpcClient
 public interface UserService {
-    String callRpc(String param);
+    String callRpc(String param); //5
 }
