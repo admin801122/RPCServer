@@ -17,6 +17,7 @@ public class UserController {
 
     @RequestMapping(value = "/callRpc")
     public String callRpcTest(){
+        //测试一下 branch test
         userService.callRpc("callRpc execute......");
         return "ok";
     }
